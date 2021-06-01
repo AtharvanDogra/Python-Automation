@@ -8,3 +8,6 @@ https://drive.google.com/file/d/1LNRSxlIx-1rUOIBxmgcmK-Fsay9vCzOs/view?usp=shari
 #Selenium Automation and Logging
 This is an automated program to log in to a website and create a post. 
 It captures important information like response code and response time and gives it in a log file. 
+
+Video link for representation: 
+https://drive.google.com/file/d/1hYfkhjN2bWRnKBaMO926aEkSqcMDn7jM/view?usp=sharing
