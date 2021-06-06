@@ -65,4 +65,5 @@ time.sleep(10)
 driver.find_element_by_xpath("//*[@id='hpost_btn']").click()            #post
 
 driver.switch_to.window(driver.window_handles[-1])
+time.sleep(10)
 logger.info('URL of the child page after upload: {}'.format(driver.current_url))
